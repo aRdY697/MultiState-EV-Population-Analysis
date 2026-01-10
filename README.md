@@ -1,3 +1,5 @@
+**"Please unzip EV_cleaned.zip to access the dataset."**
+
 🚗 Electric Vehicle (EV) Population & Market Analysis
 📌 Project Overview
 This project provides a comprehensive analysis of the Electric Vehicle (EV) landscape across multiple states. By processing a dataset of over 268,000 registrations, the study uncovers regional adoption patterns, manufacturer performance, and technological advancements in battery range. The analysis is designed to scale across different geographic regions, providing a template for national EV market research.
